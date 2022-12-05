@@ -9,7 +9,7 @@ cd backend
 nodemon
 
 
-2st terminal
+2nd terminal
 for frontend
 cd frontend
 npm install
