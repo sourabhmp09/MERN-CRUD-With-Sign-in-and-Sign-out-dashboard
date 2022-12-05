@@ -2,7 +2,7 @@
 # mern-ecommerce-dashboard
 <pre>
 must on mongodb server
-<h3>//1st terminal</h3>
+<h4>//1st terminal</h4>
 for backend
 cd backend
 npm install
