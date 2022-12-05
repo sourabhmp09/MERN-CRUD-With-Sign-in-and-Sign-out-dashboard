@@ -8,8 +8,7 @@ cd backend
 npm install
 nodemon
 
-
-2nd terminal
+<h4>//2nd terminal</h4>
 for frontend
 cd frontend
 npm install
