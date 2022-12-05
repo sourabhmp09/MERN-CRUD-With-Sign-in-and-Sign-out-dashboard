@@ -6,6 +6,7 @@ must on mongodb server
 1st terminal
 for backend
 cd backend
+npm install
 nodemon
 
 
