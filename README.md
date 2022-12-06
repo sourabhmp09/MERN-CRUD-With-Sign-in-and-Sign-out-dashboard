@@ -7,6 +7,7 @@ for backend
 cd backend
 npm install
 nodemon
+server is working on 5000
 
 <h4>//2nd terminal</h4>
 for frontend
