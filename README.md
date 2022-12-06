@@ -1,5 +1,5 @@
 
-# mern-ecommerce-dashboard
+# MERN-CRUD-With-Sign-in-and-Sign-out-dashboard
 <pre>
 must on mongodb server
 <h4>//1st terminal</h4>
